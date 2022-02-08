@@ -3,6 +3,9 @@
     margin:20px auto;
     user-select:none;
 }
+body{
+    background-color:teal;
+}
 
 :root{
     --bg-color:grey;
